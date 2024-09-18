@@ -10,13 +10,13 @@ All files are publicly available and can be used for further research or other a
 
 **Abstract**
 
-Molluscs fabricate shells of incredible diversity and complexity by localized secretions from the dorsal epithelium of the mantle. Although distantly related molluscs express remarkably different secreted gene products, it remains unclear if the evolution of shell structure and pattern is underpinned by the differential co-option of conserved genes or the integration of lineage-specific genes into the mantle regulatory program. To address this, we compare the mantle transcriptomes of 11 bivalves and gastropods of varying relatedness. We find that each species, including four Pinctada (pearl oyster) species that diverged within the last 20 Ma, expresses a unique mantle secretome. Lineage- or species-specific genes comprise a large proportion of each species’ mantle secretome. A majority of these secreted proteins have unique domain architectures that include repetitive, low complexity domains (RLCDs), which evolve rapidly, and have a proclivity to expand, contract and rearrange in the genome. There are also a large number of secretome genes expressed in the mantle that arose before the origin of gastropods and bivalves. Each species expresses a unique set of these more ancient genes consistent with their independent co-option into these mantle gene regulatory networks. From this analysis, we infer lineage-specific secretomes underlie shell diversity, and include both rapidly evolving RLCD-containing proteins, and the continual recruitment and loss of both ancient and recently evolved genes into the periphery of the regulatory network controlling gene expression in the mantle epithelium.
+To map out key lipid-related pathways that lead to rapid triacylglyceride accumulation in oleaginous microalgae, RNA-Seq was performed with Tetraselmis sp. M8 at 24 h after exhaustion of exogenous nitrogen to reveal molecular changes during early stationary phase. Further gene expression profiling by quantitative real-time PCR at 16–72 h revealed a distinct shift in expression of the fatty acid/triacylglyceride biosynthesis and β-oxidation pathways, when cells transitioned from log-phase into early-stationary and stationary phase. Metabolic reconstruction modeling combined with real-time PCR and RNA-Seq gene expression data indicates that the increased lipid accumulation is a result of a decrease in lipid catabolism during the early-stationary phase combined with increased metabolic fluxes in lipid biosynthesis during the stationary phase. During these two stages, Tetraselmis shifts from reduced lipid consumption to active lipid production. This process appears to be independent from DGAT expression, a key gene for lipid accumulation in microalgae.
 
 ## Author contact
 
-- Felipe Aguilera f.aguilera@uq.edu.au (first author - PhD student)
-- Carmel McDougall c.mcdougall@uq.edu.au (senior author - PostDoc)
-- Bernie Degnan b.degnan@uq.edu.au (corresponding author)
+- David K.Y. Lim (first author - PhD student)
+- Felipe Aguilera f.aguilera@uq.edu.au (PhD student)
+- Peer M. Schenk p.schenk@uq.edu.au 
 
 ## How to download data files
 
