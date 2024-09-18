@@ -35,3 +35,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 - **Supplementary Figure 7.** qRT-PCR data of fatty acid pathway genes.
 - **Supplementary Figure 8.** qRT-PCR data of TAG pathway genes.
 - **Supplementary Figure 9.** qRT-PCR data of lipid catabolism pathway genes.
+
+[02-List-primers-qPCR.xlsx](https://github.com/faguil/Tetraselmis-M8-RNA-Seq/blob/main/02-List-primers-qPCR.xlsx) contains the list of primers used for qRT-PCR.
+
+
