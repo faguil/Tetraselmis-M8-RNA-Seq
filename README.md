@@ -24,3 +24,18 @@ To map out key lipid-related pathways that lead to rapid triacylglyceride accumu
 The files in this repository are ready for use. Simply click on the file, and you will be directed to the GitHub webpage to save it to your device.
 
 ## Index of data file contents
+
+[01-Supplementary-Figures.pdf](https://github.com/faguil/Molluscan-Shell-Evolution/blob/main/01-Supplementary-Figures.pdf) contains supplementary figures used in this study.
+
+- **Figure S1.** Computational predictions of cytosolic, membrane-bound and secreted proteins for each species.
+- **Figure S2.** GO annotations of genes that arose along the stems leading to bilaterian (PS7, red) and molluscan (PS10, blue) last common ancestors.
+- **Figure S3.** Phylogenetic relationships among bivalve and gastropod lineages based on 122 gene families that encode secreted proteins.
+- **Figure S4.** GO term (biological process and molecular function) enrichment in newly gained secreted gene families across conchiferan evolution.
+- **Figure S5.** Expression profiles of genes encoding secreted proteins – the mantle secretome – of eight bivalve and two gastropod species.
+- **Figure S6.** Expression levels of co-opted, lineage-specific and species-specific genes encoding secreted proteins.
+- **Figure S7.** Phylogenetic analysis of carbonic anhydrase domain-containing proteins.
+- **Figure S8.** Phylogenetic analyses of SPARC domain-containing proteins and zona pellucida-like domain-containing proteins.
+- **Figure S9.** Phylogenetic analysis of tyrosinase domain-containing proteins.
+- **Figure S10.** Phylogenetic analysis of glycoside hydrolase family 18 domain-containing proteins.
+- **Figure S11.** Phylogenetic analyses of polysaccharide deacetylase domain-containing proteins and chitin-binding domain-containing proteins.
+- **Figure S12.** Changes in the prediction of gene families using different MCL inflation values.
