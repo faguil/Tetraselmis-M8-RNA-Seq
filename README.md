@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**RNA-Seq and metabolic flux analysis of Tetraselmis sp. M8 during nitrogen starvation reveals a two-stage lipid accumulation mechanism.** David K.Y. Lim, Holger Schuhmann, Skye R. Thomas-Hall, Kenneth C.K. Chan, Taylor J. Wass, Felipe Aguilera, T. Catalina Adarme-Vega, Cristiana G.O. Dal'Molin, Glen J. Thorpe, Jacqueline Batley, David Edwards, Peer M. Schenk. *Bioresource Technology* **244**:1281-1293 (2017). https://doi.org/10.1016/j.biortech.2017.06.003.
+**RNA-Seq and metabolic flux analysis of Tetraselmis sp. M8 during nitrogen starvation reveals a two-stage lipid accumulation mechanism.** David K.Y. Lim, Holger Schuhmann, Skye R. Thomas-Hall, Kenneth C.K. Chan, Taylor J. Wass, Felipe Aguilera, T. Catalina Adarme-Vega, Cristiana G.O. Dal'Molin, Glen J. Thorpe, Jacqueline Batley, David Edwards, Peer M. Schenk. *Bioresource Technology* **244**:1281-1293 (2017). https://doi.org/10.1016/j.biortech.2017.06.003
 
 **Abstract**
 
