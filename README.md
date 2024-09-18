@@ -16,7 +16,7 @@ To map out key lipid-related pathways that lead to rapid triacylglyceride accumu
 
 - David K.Y. Lim (first author - PhD student)
 - [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (PhD student)
-- Peer M. Schenk p.schenk@uq.edu.au 
+- [Peer M. Schenk](mailto:p.schenk@uq.edu.au) (corresponding author) 
 
 ## How to download data files
 
