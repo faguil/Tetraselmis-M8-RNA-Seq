@@ -38,4 +38,4 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [02-List-primers-qPCR.xlsx](https://github.com/faguil/Tetraselmis-M8-RNA-Seq/blob/main/02-List-primers-qPCR.xlsx) contains the list of primers used for qRT-PCR.
 
-
+[03-DiffKAP-and-DERs.xlsx](https://github.com/faguil/Tetraselmis-M8-RNA-Seq/blob/main/03-DiffKAP-and-DERs.xlsx) contains the Differential Kmer Analysis Pipeline (DiffKAP) with Differentially Expressed Reads (DERs). 
