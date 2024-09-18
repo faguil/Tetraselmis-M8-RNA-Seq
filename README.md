@@ -27,15 +27,12 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 [01-Supplementary-Figures.pdf](https://github.com/faguil/Tetraselmis-M8-RNA-Seq/blob/main/01-Supplementary-Figures.pdf) contains supplementary figures used in this study.
 
-- **Figure S1.** Computational predictions of cytosolic, membrane-bound and secreted proteins for each species.
-- **Figure S2.** GO annotations of genes that arose along the stems leading to bilaterian (PS7, red) and molluscan (PS10, blue) last common ancestors.
-- **Figure S3.** Phylogenetic relationships among bivalve and gastropod lineages based on 122 gene families that encode secreted proteins.
-- **Figure S4.** GO term (biological process and molecular function) enrichment in newly gained secreted gene families across conchiferan evolution.
-- **Figure S5.** Expression profiles of genes encoding secreted proteins – the mantle secretome – of eight bivalve and two gastropod species.
-- **Figure S6.** Expression levels of co-opted, lineage-specific and species-specific genes encoding secreted proteins.
-- **Figure S7.** Phylogenetic analysis of carbonic anhydrase domain-containing proteins.
-- **Figure S8.** Phylogenetic analyses of SPARC domain-containing proteins and zona pellucida-like domain-containing proteins.
-- **Figure S9.** Phylogenetic analysis of tyrosinase domain-containing proteins.
-- **Figure S10.** Phylogenetic analysis of glycoside hydrolase family 18 domain-containing proteins.
-- **Figure S11.** Phylogenetic analyses of polysaccharide deacetylase domain-containing proteins and chitin-binding domain-containing proteins.
-- **Figure S12.** Changes in the prediction of gene families using different MCL inflation values.
+- **Supplementary Figure 1.** Nitrogen and phosphate contents of growth medium during *Tetraselmis* sp. M8 cultivation and harvesting for RNA-Seq and qRT-PCR experiments.
+- **Supplementary Figure 2.** DiffKAP dataflow diagram.
+- **Supplementary Figure 3.** Flux map of the central carbon metabolism for *Tetraselmis* sp. M8 under nitrogen limiting conditions at 72 h.
+- **Supplementary Figure 4.** Distribution of Gene ontology (GO) terms assigned to annotated differentially expressed reads (DERs) in Control and Nitrogen-starved treatments.
+- **Supplementary Figure 5.** Growth and lipid accumulation of *Tetraselmis* sp. M8 in a time-course experiment using control and nitrogen-starved cultures.
+- **Supplementary Figure 6.** Flux map of the central carbon metabolism under the lipid accumulation for *Tetraselmis* sp. M8 under nitrogen limiting conditions at 24 h.
+- **Supplementary Figure 7.** qRT-PCR data of fatty acid pathway genes.
+- **Supplementary Figure 8.** qRT-PCR data of TAG pathway genes.
+- **Supplementary Figure 9.** qRT-PCR data of lipid catabolism pathway genes.
