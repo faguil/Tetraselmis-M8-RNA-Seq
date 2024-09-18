@@ -25,7 +25,7 @@ The files in this repository are ready for use. Simply click on the file, and yo
 
 ## Index of data file contents
 
-[01-Supplementary-Figures.pdf](https://github.com/faguil/Molluscan-Shell-Evolution/blob/main/01-Supplementary-Figures.pdf) contains supplementary figures used in this study.
+[01-Supplementary-Figures.pdf](https://github.com/faguil/Tetraselmis-M8-RNA-Seq/blob/main/01-Supplementary-Figures.pdf) contains supplementary figures used in this study.
 
 - **Figure S1.** Computational predictions of cytosolic, membrane-bound and secreted proteins for each species.
 - **Figure S2.** GO annotations of genes that arose along the stems leading to bilaterian (PS7, red) and molluscan (PS10, blue) last common ancestors.
